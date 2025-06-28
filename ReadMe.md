@@ -1,7 +1,7 @@
 # MirOS
 
 **MirOS** is a lightweight, customizable, and open-source Linux distribution based on **Ubuntu 24.04 LTS**.  
-It is designed with simplicity, speed, and user freedom in mind — offering a clean and distraction-free desktop experience powered by a customized **Budgie** environment.
+It is designed for simplicity, speed, and user freedom in mind — offering a clean and distraction-free desktop experience powered by a customized **Budgie** environment.
 
 > MirOS is currently under development. No releases are available yet.  
 > A first stable version will be published when ready.
