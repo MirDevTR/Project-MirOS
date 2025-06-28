@@ -1,0 +1,17 @@
+# Backup and temp files
+*~
+*.swp
+*.tmp
+*.bak
+*.old
+
+# Logs
+*.log
+
+# Editor configs
+.vscode/
+.idea/
+
+# Build folders
+build/
+dist/
