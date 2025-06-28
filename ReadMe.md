@@ -82,7 +82,7 @@ Once the first release is published, contribution guidelines and issue tracking 
 ##  Contact
 
 Have questions, suggestions, or concerns?  
-Reach out via GitHub Issues or email: **mirsystems0@gmail.com**
+Reach out via GitHub Issues or email: **mirsystems.s@gmail.com**
 
 ---
 
