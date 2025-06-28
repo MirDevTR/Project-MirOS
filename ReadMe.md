@@ -60,7 +60,7 @@ See [LICENSE](./LICENSE) for full legal terms.
 
 ---
 
-## 🛡️ Usage Policy
+##  Usage Policy
 
 To preserve the identity and integrity of MirOS:
 
