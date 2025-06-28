@@ -1,2 +1,17 @@
 # Project-MirOS
-A lightweight, clean, and fully customizable Linux distro based on Ubuntu 24.04 LTS. Uses a modified Budgie desktop. Still in development. Estimated to run on systems with 1–2 GB RAM. Built for simplicity, speed, and user freedom.
+
+Base System: Ubuntu 24.04 LTS  
+
+Desktop Environment: Customized Budgie  
+
+Estimated Minimum Requirements:  
+  • 1–2 GB RAM  
+  • 16 GB Storage  
+  
+Project Status: In Development  
+
+Philosophy: Lightweight, Clean, Customizable, Open  
+
+Default Applications: Firefox only — the rest is up to you  
+
+License: Open-source
