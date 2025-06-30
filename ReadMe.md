@@ -6,7 +6,7 @@ It is designed for simplicity, speed, and user freedom in mind — offering a cl
 > MirOS is currently under development. No releases are available yet.  
 > A first stable version will be published when ready.
 
-[MirOS Logo](https://imgur.com/uKu1dtF)
+[MirOS Logo](https://i.imgur.com/6Rwfkb7.png)
 
 ---
 
