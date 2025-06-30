@@ -26,7 +26,7 @@ It is designed for simplicity, speed, and user freedom in mind — offering a cl
 | Resource      | Minimum      |
 |---------------|--------------|
 | RAM           | 1–2 GB       |
-| Storage       | 16 GB (but we recommend 32)        |
+| Storage       | 16 GB (Recommended 32 GB)        |
 | CPU           | 1 GHz+       |
 | Architecture  | x86_64       |
 
