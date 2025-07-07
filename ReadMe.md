@@ -1,7 +1,7 @@
 # MirOS
 
-**MirOS** is a lightweight, customizable, and open-source Linux distribution based on **Ubuntu 24.04 LTS**.  
-It is designed for simplicity, speed, and user freedom in mind — offering a clean and distraction-free desktop experience powered by a customized **Budgie** environment.
+**MirOS** is a lightweight, customizable, and open-source Linux distribution based on **Debian 12**.  
+It is designed for simplicity, speed, and user freedom in mind — offering a clean and distraction-free desktop experience powered by a customized **KDE Plasma** environment.
 
 > MirOS is currently under development. No releases are available yet.  
 > A first stable version will be published when ready.
@@ -10,78 +10,79 @@ It is designed for simplicity, speed, and user freedom in mind — offering a cl
 
 ---
 
-##  Features
+## Features
 
--  Based on Ubuntu 24.04 LTS
--  Lightweight and fast
--  Custom Budgie desktop environment
--  Fully customizable and minimal by default
--  Only Firefox is pre-installed — you choose the rest
--  100% open-source and user-respecting
-
----
-
-##  Estimated System Requirements
-
-| Resource      | Minimum      |
-|---------------|--------------|
-| RAM           | 1–2 GB       |
-| Storage       | 16 GB (Recommended 32 GB)        |
-| CPU           | 1 GHz+       |
-| Architecture  | x86_64       |
-
-> These requirements are estimated and may change before the first release.
+- Based on Debian Stable  
+- Lightweight and optimized for performance  
+- Custom KDE Plasma desktop environment  
+- Fully customizable and minimal by default  
+- Only Firefox is pre-installed — you choose the rest  
+- 100% open-source and user-respecting  
 
 ---
 
-##  Default Applications
+## Estimated System Requirements
+
+| Resource      | Minimum         | Recommended      |
+|---------------|-----------------|------------------|
+| RAM           | 2 GB            | 4 GB             |
+| Storage       | 20 GB           | 32 GB            |
+| CPU           | 1.5 GHz dual-core| 2 GHz quad-core  |
+| Architecture  | x86_64 (64-bit architecture) |
+
+> KDE Plasma is more feature-rich than Budgie but can still be lightweight when customized.  
+> These estimates reflect a balance between usability and performance on modern hardware.
+
+---
+
+## Default Applications
 
 - **Firefox**  
 *(No bloat — install only what you need.)*
 
 ---
 
-##  Development Status
+## Development Status
 
 MirOS is currently in private development and not yet available to the public.  
 ISO builds, installation instructions, and contribution guidelines will be shared once the first stable release is ready.
 
 ---
 
-##  License
+## License
 
 MirOS is released under the **MIT License**.
 
 You are free to:
 
-- ✔️ Use, modify, and share the system
-- ✔️ Build on top of it
-- ❌ But you **may not** misrepresent it as your own or use the name/logo without permission
+- ✔️ Use, modify, and share the system  
+- ✔️ Build on top of it  
+- ❌ But you **may not** misrepresent it as your own or use the name/logo without permission  
 
 See [LICENSE](./LICENSE) for full legal terms.
 
 ---
 
-##  Usage Policy
+## Usage Policy
 
 To preserve the identity and integrity of MirOS:
 
-- ❌ Do **not** redistribute modified versions under the name "MirOS"
-- ❌ Do **not** use the name or logo in unrelated projects
-- ✅ You **may** fork, remix, or study the code for educational or personal use
-- ✅ Derivative works must clearly mention they are *based on MirOS*
-- ❌ Do **not** sell or bundle MirOS into paid products without written permission
+- ❌ Do **not** redistribute modified versions under the name "MirOS"  
+- ❌ Do **not** use the name or logo in unrelated projects  
+- ✅ You **may** fork, remix, or study the code for educational or personal use  
+- ✅ Derivative works must clearly mention they are *based on MirOS*  
+- ❌ Do **not** sell or bundle MirOS into paid products without written permission  
 
 ---
 
-##  Contributing
+## Contributing
 
 Public contributions are not open yet.  
 Once the first release is published, contribution guidelines and issue tracking will be made available.
 
 ---
 
-##  Contact
+## Contact
 
 Have questions, suggestions, or concerns?  
 Reach out via GitHub Issues or email: **mirsystems.s@gmail.com**
