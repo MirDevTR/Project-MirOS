@@ -88,3 +88,14 @@ Reach out via GitHub Issues or email: **mirsystems.s@gmail.com**
 
 ---
 
+## IMPORTANT
+
+MirOS is a personal and non-commercial operating system project developed by an individual for educational and experimental purposes.  
+It is not affiliated with, endorsed by, or associated in any way with Xiaomi Inc., Canonical Ltd., the Mir display server, or the MirOS BSD operating system.
+
+The name "Mir" is derived from the developer’s own first name (Emir), and does not intend to reference or infringe upon any existing trademarks or projects.  
+The logo used in this project may share visual similarity with existing brands purely by coincidence and is not intended to mislead, confuse, or suggest any official association.
+
+If this project ever becomes commercial or publicly funded, the name and logo will be changed to ensure full legal compliance with all relevant trademarks and copyright laws.
+
+This project is distributed freely and openly, with no profit involved, and with full respect to the intellectual property of others.
