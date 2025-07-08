@@ -1,12 +1,12 @@
-# MirOS
+# NeoLixOS
 
-**MirOS** is a lightweight, customizable, and open-source Linux distribution based on **Debian 12**.  
+**NeoLixOS**, or **Neo** for short, is a lightweight, customizable, and open-source Linux distribution based on **Debian 12**.  
 It is designed for simplicity, speed, and user freedom in mind — offering a clean and distraction-free desktop experience powered by a customized **KDE Plasma** environment.
 
-> MirOS is currently under development. No releases are available yet.  
+> NeoLixOS is currently under development. No releases are available yet.  
 > A first stable version will be published when ready.
 
-![MirOS Logo](https://i.imgur.com/IzdQ2s7.png)
+![NeoLixOS Logo](https://files.catbox.moe/8s81tz.png)
 
 ---
 
@@ -44,14 +44,14 @@ It is designed for simplicity, speed, and user freedom in mind — offering a cl
 
 ## Development Status
 
-MirOS is currently in private development and not yet available to the public.  
+NeoLixOS is currently in private development and not yet available to the public.  
 ISO builds, installation instructions, and contribution guidelines will be shared once the first stable release is ready.
 
 ---
 
 ## License
 
-MirOS is released under the **MIT License**.
+NeoLixOS is released under the **MIT License**.
 
 You are free to:
 
@@ -67,11 +67,11 @@ See [LICENSE](./LICENSE) for full legal terms.
 
 To preserve the identity and integrity of MirOS:
 
-- ❌ Do **not** redistribute modified versions under the name "MirOS"  
+- ❌ Do **not** redistribute modified versions under the name "NeoLixOS"  
 - ❌ Do **not** use the name or logo in unrelated projects  
 - ✅ You **may** fork, remix, or study the code for educational or personal use  
-- ✅ Derivative works must clearly mention they are *based on MirOS*  
-- ❌ Do **not** sell or bundle MirOS into paid products without written permission  
+- ✅ Derivative works must clearly mention they are *based on NeoLixOS*  
+- ❌ Do **not** sell or bundle NeoLixOS into paid products without written permission  
 
 ---
 
@@ -91,11 +91,8 @@ Reach out via GitHub Issues or email: **mirsystems.s@gmail.com**
 
 ## IMPORTANT
 
-MirOS is a personal and non-commercial operating system project developed by an individual for educational and experimental purposes.  
+NeoLixOS is a personal and non-commercial operating system project developed by an individual for educational and experimental purposes.  
 It is not affiliated with, endorsed by, or associated in any way with Xiaomi Inc., Canonical Ltd., the Mir display server, or the MirOS BSD operating system.
-
-The name "Mir" is derived from the developer’s own first name (Emir), and does not intend to reference or infringe upon any existing trademarks or projects.  
-The logo used in this project may share visual similarity with existing brands purely by coincidence and is not intended to mislead, confuse, or suggest any official association.
 
 If this project ever becomes commercial or publicly funded, the name and logo will be changed to ensure full legal compliance with all relevant trademarks and copyright laws.
 
